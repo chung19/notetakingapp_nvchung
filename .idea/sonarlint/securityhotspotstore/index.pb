@@ -17,3 +17,7 @@ x
 Happ/src/main/java/com/example/notetakingapp/repository/NoteRepository.kt,a\6\a6c13b1d7659418fe5596f8021c8f346cda6256f
 v
 Fapp/src/main/java/com/example/notetakingapp/viewmodel/NoteViewModel.kt,9\6\9621577a25e97bb0f455adf3141e042302af223d
+}
+Mapp/src/main/java/com/example/notetakingapp/viewmodel/NoteViewModelFactory.kt,1\5\155c6fdc33fa5420d3ee2dd3cfb65c67174b938e
+r
+Bapp/src/main/java/com/example/notetakingapp/adapter/NoteAdapter.kt,8\2\82218af7fed38d10d944c453c3a59a7215e0eafb
