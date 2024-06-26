@@ -7,3 +7,13 @@ A
 build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
 D
 app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+i
+9app/src/main/java/com/example/notetakingapp/model/Note.kt,d\2\d23818e87e350fa2c7def8d3df16ff8789a96663
+o
+?app/src/main/java/com/example/notetakingapp/database/NoteDao.kt,6\7\67481257f6b9732f53e52285181bd26c31b71e79
+t
+Dapp/src/main/java/com/example/notetakingapp/database/NoteDatabase.kt,f\8\f8d631884ffadfbc4e09533e7bab7bc0b046ebc8
+x
+Happ/src/main/java/com/example/notetakingapp/repository/NoteRepository.kt,a\6\a6c13b1d7659418fe5596f8021c8f346cda6256f
+v
+Fapp/src/main/java/com/example/notetakingapp/viewmodel/NoteViewModel.kt,9\6\9621577a25e97bb0f455adf3141e042302af223d
